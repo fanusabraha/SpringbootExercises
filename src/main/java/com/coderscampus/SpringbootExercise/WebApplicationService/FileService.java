@@ -1,4 +1,4 @@
-package com.coderscampus.WebApplicationService;
+package com.coderscampus.SpringbootExercise.WebApplicationService;
 import org.springframework.stereotype.Service;
 
 import java.io.IOException;

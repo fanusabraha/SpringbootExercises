@@ -1,6 +1,6 @@
-package com.coderscampus.WebApplication;
+package com.coderscampus.SpringbootExercise.WebApplication;
 
-import com.coderscampus.WebApplicationService.FileService;
+import com.coderscampus.SpringbootExercise.WebApplicationService.FileService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
