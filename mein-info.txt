@@ -1,0 +1,13 @@
+
+First i want to Thank you for considering my application. I'm Fanus, an experienced Java software engineer 
+with a strong background in developing scalable and maintainable applications. With 5+ years of professional experience
+ in the financial and commercial sectors, I've applied modern technologies like Design Patterns and object-oriented programming,
+ working with frameworks such as Spring MVC, Spring-Boot, React, and Hibernate. I have good experience in tools like Kafka,
+ Docker, Kubernetes, and databases like MySQL, MongoDB, PostgreSQL, and Oracle. 
+
+# To my Education level, I have a Bachelor of Science degree in Computer Engineering. 
+My career journey has equipped me with a diverse skillset and a drive to use technology to solve real-world problems.
+ In addition to my technical skills, I am a strong communicator and enjoy collaborating with cross-functional teams
+ to deliver high-quality software products. I believe in continuous learning and always strive to stay updated on the latest
+ industry trends and technologies. I look forward to the opportunity to contribute my skills and knowledge to your organization's 
+success. Thank you!
